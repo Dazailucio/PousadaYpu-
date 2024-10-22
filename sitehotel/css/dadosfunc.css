@@ -1,0 +1,17 @@
+.body{
+    margin: 0%;
+    height: 100vh;
+
+    
+}
+
+.interface{
+    background-color: aqua;
+    max-width: 1280px;
+    height: 85vh;
+}
+
+.interface >.menu-center{
+    display: flex;
+    justify-content: center;
+}
